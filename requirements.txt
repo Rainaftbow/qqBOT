@@ -1,0 +1,71 @@
+aiohappyeyeballs
+aiohttp
+aiosignal
+annotated-types
+anyio
+apscheduler
+attrs
+beautifulsoup4
+bs4
+# bzip2
+# ca-certificates
+certifi
+cffi
+charset-normalizer
+chromedriver
+colorama
+contourpy
+cycler
+distro
+# expat
+fonttools
+frozenlist
+h11
+httpcore
+httpx
+idna
+jiter
+kiwisolver
+# libffi
+# libmpdec
+matplotlib
+multidict
+numpy
+openai
+# openssl
+outcome
+packaging
+pillow
+propcache
+pycparser
+pydantic
+pydantic-core
+pyparsing
+pysocks
+# python
+python-dateutil
+# python_abi
+pyyaml
+qq-botpy
+requests
+selenium
+setuptools
+six
+sniffio
+sortedcontainers
+soupsieve
+# sqlite
+sqlalchemy
+tk
+tqdm
+trio
+trio-websocket
+typing-extensions
+websocket-client
+websockets
+wheel
+wsproto
+xlwt
+# xz
+yarl
+# zlib
